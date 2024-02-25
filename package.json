@@ -1,0 +1,16 @@
+{
+    "name": "wardn",
+    "version": "0.0.1",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "nodemon"
+    },
+    "keywords": [],
+    "author": "TSS",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^14.14.1",
+        "dotenv": "^16.4.4",
+        "nodemon": "^3.0.3"
+    }
+}
